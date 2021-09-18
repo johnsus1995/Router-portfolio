@@ -9,8 +9,8 @@ const Homepage = () => {
                     <p>Front-end Developer</p>
 
                     <ul>
-                        <li><a href='https://www.amazon.in' target='_blank' rel="noopenner noreferrer"><FaTwitter /></a></li>
-                        <li><a href='https://www.amazon.in' target='_blank' rel="noopenner noreferrer"><FaGithub /></a></li>
+                        <li><a href='https://twitter.com/' target='_blank' rel="noopenner noreferrer"><FaTwitter /></a></li>
+                        <li><a href='https://github.com/johnsus1995' target='_blank' rel="noopenner noreferrer"><FaGithub /></a></li>
                     </ul>
                 </div>
             </section>
