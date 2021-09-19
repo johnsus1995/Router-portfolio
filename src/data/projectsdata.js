@@ -39,14 +39,22 @@ export const projectsdata =[
         desc:"This is a replica of amazon and UI is almost similar, I have made use of comples hooks in this project",
         github:"https://github.com",
         demo:"https://my-d2f06.web.app/",
-        image:"./images/project-5.jpeg"
+        image:"https://images.unsplash.com/photo-1585144860106-998ca0f2922a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
     },
     {
         id:uuidv4(),
-        title:"In progress",
+        title:"In progress (Weather App)",
         desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
         github:"https://github.com",
-        demo:"https://amazon.in",
+        demo:"#",
+        image:"https://images.pexels.com/photos/4019400/pexels-photo-4019400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        id:uuidv4(),
+        title:"In progress (Todo App)",
+        desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+        github:"https://github.com",
+        demo:"#",
         image:"https://images.pexels.com/photos/4019400/pexels-photo-4019400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
 ]
