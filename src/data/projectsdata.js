@@ -7,7 +7,7 @@ export const projectsdata =[
         desc:"Implemented the search filters used in eCommerse applications. You can search anything and matching results will be sorted",
         github:"https://github.com",
         demo:"https://react-search-filter.netlify.app/",
-        image:"./images/project-1.jpeg"
+        image:"https://images.unsplash.com/photo-1563515940928-b1bfb1711975?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
     },
     {
         id:uuidv4(),
