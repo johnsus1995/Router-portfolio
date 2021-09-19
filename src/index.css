@@ -139,6 +139,7 @@ img {
   margin: auto;
   gap: 20px;
   color: #fff;
+  padding-bottom: 20px;
 }
 
 .projects .cards h4 {
